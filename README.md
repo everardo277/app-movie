@@ -1,5 +1,6 @@
 # Aplicación de peliculas mas populares
-### [Tutorial: https://youtu.be/PNr8-JDMinU](https://youtu.be/PNr8-JDMinU)
+### esta app fue realizada con los lenguajes html,css y javascript puro
+el frontend se conecta a una api desde donde se extrae la información
 
 
 
